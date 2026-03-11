@@ -1,9 +1,6 @@
 name: CI/CD Calculator App
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 env:
