@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: YOUR_DOCKERHUB_USERNAME/calculator-app:latest
+        image: issahaku/calculator-app:latest
         ports:
         - containerPort: 5000
